@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "634bf805d3a53d91",
+        "id": "e009885b9d1b03e2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7bee0e7457f19a1",
+            "id": "801985e4c0d0c6cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,20 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7bee0e7457f19a1",
+  "active": "801985e4c0d0c6cf",
   "lastOpenFiles": [
+    "assets/Pasted image 20250408203641.png",
+    "assets/Pasted image 20250408200245.png",
+    "assets/Pasted image 20250407223505.png",
+    "assets/Pasted image 20250406082915.png",
+    "assets/m2-res_900p.mp4",
+    "assets/Pasted image 20250405194343.png",
+    "README.md",
     "assets/Pasted image 20250405190710.png",
+    "assets/Pasted image 20250405175303.png",
     "assets/Pasted image 20250405184946.png",
     "assets/Pasted image 20250405183434.png",
     "assets/68747470733a2f2f676174746f6e7765622e756b792e6564752f666163756c74792f6c69756d2f6d6c2f72656c757369676d6f69642e676966.gif",
     "assets/68747470733a2f2f676174746f6e7765622e756b792e6564752f666163756c74792f6c69756d2f6d6c2f6e6e2e676966.gif",
-    "assets/68747470733a2f2f676174746f6e7765622e756b792e6564752f666163756c74792f6c69756d2f6d6c2f6c61726765746f736d616c6c2e676966.gif",
-    "assets/Pasted image 20250405175303.png",
-    "assets/Pasted image 20250405175111.png",
-    "assets/Pasted image 20250405174451.png",
-    "assets/Pasted image 20250405172924.png",
-    "assets/Pasted image 20250405172918.png",
-    "README.md",
     "assets"
   ]
 }
